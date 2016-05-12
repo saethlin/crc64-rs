@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex["crc64"] = {"doc":"Calculate the crc64 checksum of the given data, starting with the given crc.","items":[[3,"Crc64","crc64","",null,null],[5,"crc64_init","","",null,{"inputs":[],"output":{"name":"vec"}}],[5,"crc64","","",null,null],[11,"new","","",0,{"inputs":[],"output":{"name":"crc64"}}],[11,"get","","",0,{"inputs":[{"name":"crc64"}],"output":{"name":"u64"}}],[11,"default","","",0,{"inputs":[],"output":{"name":"self"}}],[11,"write","","",0,null],[11,"flush","","",0,{"inputs":[{"name":"crc64"}],"output":{"name":"result"}}]],"paths":[[3,"Crc64"]]};
+initSearch(searchIndex);
